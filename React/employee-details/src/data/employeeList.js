@@ -1,4 +1,4 @@
-var employeeList = [
+export var employeeList = [
     {
         "id":"26",
         "createdAt":"2019-07-09T18:08:17.841Z",
