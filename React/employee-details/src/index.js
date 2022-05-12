@@ -1,4 +1,4 @@
 import ReactDOM from "react-dom";
-import { TimerClassComponent } from "./TimerClassComponent";
+import { SbiStockComponents } from "./SbiStockComponents";
 
-ReactDOM.render(<TimerClassComponent></TimerClassComponent>, document.getElementById("root"));
+ReactDOM.render(<SbiStockComponents></SbiStockComponents>, document.getElementById("root"));
